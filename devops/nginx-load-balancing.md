@@ -1,12 +1,5 @@
 # Nginx-Config-loadBalancing
 
-This is a simple nginx config example for load balancing made by [me](https://github.com/Astr0-G), which aims to split traffic to different servers. Nginx is from RU!!!
-
-## Showcase demo
-
-[demo](https://teste.splinterforge.xyz/)
-the demo server will rotate you to the
-[site](http://52.221.237.34/) or other site I hosted by refresh the page.
 
 ## Installation
 
